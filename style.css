@@ -487,6 +487,11 @@ button {
     color: #3B3B3B!important;
 }
 
+.icon-md:hover {
+    color: white!important;
+    transition: 0.2s;
+}
+
 .icon-lg {
     font-size: 60px!important;
 }
@@ -832,6 +837,13 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+
+.form_block {
+    width: 100%;
+    max-width: 500px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 @media (max-width: 1024px) {
