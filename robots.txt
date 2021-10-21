@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /js/
+
+Sitemap: https://garyaudinet.github.io/GaryAudinet_4_27092021/sitemap.xml
