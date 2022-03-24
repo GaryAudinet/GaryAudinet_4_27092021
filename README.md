@@ -1,4 +1,4 @@
-# GaryAudinet_4_27092021 - Projet: Optimisez un site web existant
+# Projet: Optimisez un site web existant
 
 ## Cahier des charges
 
@@ -14,4 +14,3 @@ Contraintes techniques:
 
 ## GitHub Pages
 https://garyaudinet.github.io/GaryAudinet_4_27092021/
-
